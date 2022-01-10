@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59169871898",
+    "project_id": "rover-de738",
+    "storage_bucket": "rover-de738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59169871898:android:576dbf7e923d83724859a3",
+        "android_client_info": {
+          "package_name": "com.parasut.rover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59169871898-7dr5hrfvj9734kvcef9k78h512cvtlm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmcXUfYXoofurbSewQpdH7zV9oeBt5U9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59169871898-7dr5hrfvj9734kvcef9k78h512cvtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
